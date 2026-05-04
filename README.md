@@ -145,7 +145,7 @@ Computed from the gray confusion matrix below. Recall = TP / total true; precisi
 ### Gray confusion matrix
 
 <p align="center">
-  <img src="assets/confusion_matrix_gray.jpg" alt="Gray Wiener confusion matrix" width="640">
+  <img src="spn-wiener-dresden/assets/confusion_matrix_gray.jpg" alt="Gray Wiener confusion matrix" width="640">
 </p>
 
 

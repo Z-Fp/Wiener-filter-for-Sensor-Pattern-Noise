@@ -148,6 +148,12 @@ Computed from the gray confusion matrix below. Recall = TP / total true; precisi
   <img src="assets/confusion_matrix_gray.jpg" alt="Gray Wiener confusion matrix" width="640">
 </p>
 
+### Color confusion matrix
+
+<p align="center">
+  <img src="assets/confusion_matrix_gray.jpg" alt="Color Wiener confusion matrix" width="640">
+</p>
+
 ### Observations
 
 - **Device 06 collapses** — only 3 of 36 test patches are correctly identified and 20 are misclassified as Device 05. The two cameras likely share a sensor model, leaving residual fingerprints that are too similar for a single-channel Wiener residual to disambiguate.
